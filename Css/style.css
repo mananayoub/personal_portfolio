@@ -113,3 +113,11 @@ a{
     margin:40px auto 50px;
 
 }
+.footer-link{
+    color: #fff;
+    margin: 0 10px;
+}
+
+.footer-link:hover{
+    color: #66BFBF;
+}
